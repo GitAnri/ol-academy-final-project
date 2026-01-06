@@ -1,4 +1,3 @@
-#ol-academy-final-project
 Individuals Management API - ASP.NET Core Web API:
 
 This is an ASP.NET Core Web API for managing individuals and their related data. It started as a CRUD system for Individuals, Cities, Phone Numbers, and Relations using Entity Framework Core and SQL Server, with validation, DTO mapping, and business-logic services layered over repository-pattern data access.
